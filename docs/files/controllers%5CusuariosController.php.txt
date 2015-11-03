@@ -2,7 +2,7 @@
 
 class usuariosController extends  APPController
 {
-	private $pass;
+
 	public function __construct(){
 		parent::__construct();
 	}
@@ -118,7 +118,6 @@ public function delete($id = null){
 	 * @author  Dalia Nahomi Santos Xiu
 	 * @version  1
 	 */ 
-
 	public function logout(){
 		$aut = new Authorization();
 		$aut->logout();

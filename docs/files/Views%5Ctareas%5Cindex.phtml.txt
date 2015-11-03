@@ -16,7 +16,6 @@
 
 	<td><?php echo $tarea['id'];?></td>
 	<td><?php echo $tarea['nombre'];?></td>
-	
 	<td><?php echo $tarea['fecha'];?></td>
 	<td><?php echo $tarea['prioridad'];?></td>
 	<td><?php echo $tarea['status'];?></td>

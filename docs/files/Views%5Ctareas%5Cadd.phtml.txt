@@ -5,7 +5,6 @@
 
 	<P>Nombre <input type="text" name = "nombre"></P>
 	<P>Fecha<input type="text" name = "fecha"></P>
-	<P>Categoria<input type="text" name = "fecha"></P>
 	<P>Prioridad<input type="text" name = "prioridad"></P>
 	<P>Status<input type="text" name = "status"></P>
 	<P><input type="submit"></P>
